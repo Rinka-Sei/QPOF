@@ -1,7 +1,5 @@
-public:: true
-
-- #### April 20 2024; Login Time: 4:01 PM Logout Time: 8:01 PM Total: 4 hours "Day 1: Currently Training"
-  collapsed:: true
+#### April 20 2024; Login Time: 4:01 PM Logout Time: 8:01 PM Total: 4 hours "Day 1: Currently Training"
+collapsed:: true
 	- Proof-of-Links:
 	  @JusuffD1st
 	  https://twitter.com/JusuffD1st/status/1781611139241283710 - reply
