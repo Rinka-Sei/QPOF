@@ -130,7 +130,7 @@
  ;; 1. Set "Changelog" as the home page and display "Contents" in the right sidebar:
  ;; :default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
-  :default-home {:page "Qoomon Proof of Links (Jusuff)"}
+  :default-home {:page "Qoomon Proof of Links"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
  ;; :default-home {:page "home", :sidebar ["Page A" "Page B"]}
 
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["qoomon proof of links (jusuff)" "Qoomon Proof of Links"]
+ :favorites ["Qoomon Proof of Links"]
 
  ;; Set flashcards interval.
  ;; Expected value:
