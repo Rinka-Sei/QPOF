@@ -412,3 +412,4 @@ collapsed:: true
 	  @minzikaye
 	  https://x.com/minzikaye/status/1794060544263221299
 	  https://x.com/minzikaye/status/1794061934196920745
+	  https://x.com/minzikaye/status/1794062498934714568
