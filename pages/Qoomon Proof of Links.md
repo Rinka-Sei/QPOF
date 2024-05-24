@@ -403,6 +403,6 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1794039199341121826
 	  
 	  @zoehan1226
-	  
+	  https://x.com/zoehan1226/status/1794055924606202053
 	  
 	  @minzikaye
