@@ -410,3 +410,4 @@ collapsed:: true
 	  https://x.com/zoehan1226/status/1794059168338571763
 	  
 	  @minzikaye
+	  https://x.com/minzikaye/status/1794060544263221299
