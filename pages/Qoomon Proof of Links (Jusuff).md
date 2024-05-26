@@ -423,6 +423,8 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1794717841213858020
 	  https://x.com/JusuffD1st/status/1794718275806658732
 	  
+	  https://x.com/JusuffD1st/status/1794754689671864556
+	  
 	  
 	  
 	  @zoehan1226
