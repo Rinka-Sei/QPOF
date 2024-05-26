@@ -420,7 +420,7 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1794696872071983199
 	  https://x.com/JusuffD1st/status/1794697620532924845
 	  https://x.com/JusuffD1st/status/1794711739327778974
-	  
+	  https://x.com/JusuffD1st/status/1794717841213858020
 	  
 	  @zoehan1226
 	  
