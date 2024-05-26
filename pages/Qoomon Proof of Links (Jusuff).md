@@ -393,6 +393,28 @@ collapsed:: true
 	  https://x.com/minzikaye/status/1793409489250787610
 	  https://x.com/minzikaye/status/1793410135634895134
 - #### May 23 2024; Login Time: 7:41 PM Logout Time: 12:21 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
+  collapsed:: true
+	- Proof-of-Links:
+	  Shill replies to "Web3" "Trading Card Game" "TCG" profiles
+	  @JusuffD1st
+	  https://x.com/JusuffD1st/status/1793678903573360721
+	  https://x.com/JusuffD1st/status/1793686316640866457
+	  https://x.com/JusuffD1st/status/1794028921908003277
+	  https://x.com/JusuffD1st/status/1794029375815590154
+	  https://x.com/JusuffD1st/status/1794039199341121826
+	  
+	  @zoehan1226
+	  https://x.com/zoehan1226/status/1794055924606202053
+	  https://x.com/zoehan1226/status/1794056663076597933
+	  https://x.com/zoehan1226/status/1794057312757510286
+	  https://x.com/zoehan1226/status/1794057897988743342
+	  https://x.com/zoehan1226/status/1794059168338571763
+	  
+	  @minzikaye
+	  https://x.com/minzikaye/status/1794060544263221299
+	  https://x.com/minzikaye/status/1794061934196920745
+	  https://x.com/minzikaye/status/1794062498934714568
+- #### May 25 2024; Login Time: 7:41 PM Logout Time: 12:21 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
 	- Proof-of-Links:
 	  Shill replies to "Web3" "Trading Card Game" "TCG" profiles
 	  @JusuffD1st
