@@ -424,6 +424,7 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1794718275806658732
 	  
 	  https://x.com/JusuffD1st/status/1794754689671864556
+	  https://x.com/JusuffD1st/status/1795419477934588329
 	  
 	  
 	  
