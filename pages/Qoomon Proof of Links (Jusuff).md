@@ -433,11 +433,9 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1795461406688674107
 	  https://x.com/JusuffD1st/status/1795461935019991526
 	  https://x.com/JusuffD1st/status/1795462574089400802
-	  
+	  https://x.com/JusuffD1st/status/1795463838654960103
 	  
 	  @zoehan1226
 	  
 	  
 	  @minzikaye
-- Jusuff
-	- That's some great news mate, might as well consider adding @QoomonQuest to your selection and $QUIN. The game is very fun and addicting as well as their token I feel bullish about it! Keep an eye out for this game and their token as it will go big soon!
