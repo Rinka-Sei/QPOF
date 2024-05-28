@@ -439,6 +439,7 @@ collapsed:: true
 	  https://x.com/zoehan1226/status/1795465396411318668
 	  https://x.com/zoehan1226/status/1795465931319058432
 	  https://x.com/zoehan1226/status/1795466417040413010
+	  https://x.com/zoehan1226/status/1795467554699227381
 	  
 	  
 	  @minzikaye
