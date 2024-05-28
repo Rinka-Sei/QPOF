@@ -446,7 +446,7 @@ collapsed:: true
 	  https://x.com/zoehan1226/status/1795471684151242861
 	  https://x.com/zoehan1226/status/1795472735797407844
 	  https://x.com/zoehan1226/status/1795477377914671415
-	  
+	  https://x.com/zoehan1226/status/1795479567618203728
 	  
 	  
 	  
