@@ -415,7 +415,6 @@ collapsed:: true
 	  https://x.com/minzikaye/status/1794061934196920745
 	  https://x.com/minzikaye/status/1794062498934714568
 - #### May 25 2024; Login Time: 7:35 PM Logout Time: 1:09 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
-  collapsed:: true
 	- Proof-of-Links:
 	  id:: 26da6978-4c78-45e4-889c-20ce696c7f75
 	  Shill replies to "Web3" "Trading Card Game" "TCG" profiles
@@ -469,5 +468,6 @@ collapsed:: true
 	  https://x.com/minzikaye/status/1795779785563730416
 	  https://x.com/minzikaye/status/1795783436155977746
 	  https://x.com/minzikaye/status/1795784289147392479
-- #### May 26 2024; Login Time: 7:33 PM Logout Time: 12:09 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
-- #### May 28 2024; Login Time: 7:35 PM Logout Time: 1:09 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
+- #### May 26 2024; Login Time: 7:33 PM Logout Time: 12:20 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
+	-
+- #### May 28 2024; Login Time: 7:16 PM Logout Time: 12:04 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
