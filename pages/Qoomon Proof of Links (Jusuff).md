@@ -460,7 +460,6 @@ collapsed:: true
 	  https://x.com/minzikaye/status/1795773429452599795
 	  https://x.com/minzikaye/status/1795774197492494446
 - #### May 28 2024; Login Time: 7:16 PM Logout Time: 12:04 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
-  collapsed:: true
 	- Proof-of-Links:
 	  Shill replies to "Web3" "Trading Card Game" "TCG" profiles
 	  @JusuffD1st
