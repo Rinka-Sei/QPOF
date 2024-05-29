@@ -463,5 +463,3 @@ collapsed:: true
 	  https://x.com/minzikaye/status/1795772608404939197
 	  https://x.com/minzikaye/status/1795773429452599795
 	  https://x.com/minzikaye/status/1795774197492494446
-	  
-	  https://x.com/minzikaye/status/1795774197492494446
