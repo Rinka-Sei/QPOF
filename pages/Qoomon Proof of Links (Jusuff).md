@@ -425,36 +425,12 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1794717841213858020
 	  https://x.com/JusuffD1st/status/1794718275806658732
 	  
-	  https://x.com/JusuffD1st/status/1794754689671864556
-	  https://x.com/JusuffD1st/status/1795419477934588329
-	  https://x.com/JusuffD1st/status/1795445569361691004
-	  https://x.com/JusuffD1st/status/1795446038754365828
-	  https://x.com/JusuffD1st/status/1795443394703249605
-	  
-	  https://x.com/JusuffD1st/status/1795460618688053347
-	  https://x.com/JusuffD1st/status/1795461406688674107
-	  https://x.com/JusuffD1st/status/1795461935019991526
-	  https://x.com/JusuffD1st/status/1795462574089400802
-	  https://x.com/JusuffD1st/status/1795463838654960103
-	  
 	  @zoehan1226
 	  https://x.com/zoehan1226/status/1795465396411318668
 	  https://x.com/zoehan1226/status/1795465931319058432
 	  https://x.com/zoehan1226/status/1795466417040413010
 	  https://x.com/zoehan1226/status/1795467554699227381
 	  https://x.com/zoehan1226/status/1795469633132048416
-	  
-	  https://x.com/zoehan1226/status/1795471053793403319
-	  https://x.com/zoehan1226/status/1795471684151242861
-	  https://x.com/zoehan1226/status/1795472735797407844
-	  https://x.com/zoehan1226/status/1795477377914671415
-	  https://x.com/zoehan1226/status/1795479567618203728
-	  
-	  https://x.com/zoehan1226/status/1795495790447919198
-	  https://x.com/zoehan1226/status/1795760118644011373
-	  https://x.com/zoehan1226/status/1795760545624183217
-	  https://x.com/zoehan1226/status/1795761848496644441
-	  https://x.com/zoehan1226/status/1795765794736951540
 	  
 	  @minzikaye
 	  https://x.com/minzikaye/status/1795770779898155092
@@ -478,17 +454,22 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1795446038754365828
 	  https://x.com/JusuffD1st/status/1795443394703249605
 	  
+	  
 	  @zoehan1226
-	  https://x.com/zoehan1226/status/1795495790447919198
+	  
+	  
+	  
+	  @minzikaye
+	- https://x.com/zoehan1226/status/1795471053793403319
+	  https://x.com/zoehan1226/status/1795471684151242861
+	  https://x.com/zoehan1226/status/1795472735797407844
+	  https://x.com/zoehan1226/status/1795477377914671415
+	  https://x.com/zoehan1226/status/1795479567618203728
+	- https://x.com/zoehan1226/status/1795495790447919198
 	  https://x.com/zoehan1226/status/1795760118644011373
 	  https://x.com/zoehan1226/status/1795760545624183217
 	  https://x.com/zoehan1226/status/1795761848496644441
 	  https://x.com/zoehan1226/status/1795765794736951540
-	  
-	  @minzikaye
-	  https://x.com/minzikaye/status/1795772608404939197
-	  https://x.com/minzikaye/status/1795773429452599795
-	  https://x.com/minzikaye/status/1795774197492494446
 - #### May 28 2024; Login Time: 7:16 PM Logout Time: 12:04 AM Total: 5 hours "Shilling, PlayTesting, Chatting"
 	- Proof-of-Links:
 	  Shill replies to "Web3" "Trading Card Game" "TCG" profiles
@@ -500,13 +481,6 @@ collapsed:: true
 	  https://x.com/JusuffD1st/status/1795463838654960103
 	  
 	  @zoehan1226
-	  https://x.com/zoehan1226/status/1795495790447919198
-	  https://x.com/zoehan1226/status/1795760118644011373
-	  https://x.com/zoehan1226/status/1795760545624183217
-	  https://x.com/zoehan1226/status/1795761848496644441
-	  https://x.com/zoehan1226/status/1795765794736951540
+	  
 	  
 	  @minzikaye
-	  https://x.com/minzikaye/status/1795779785563730416
-	  https://x.com/minzikaye/status/1795783436155977746
-	  https://x.com/minzikaye/status/1795784289147392479
